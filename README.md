@@ -2,13 +2,9 @@
 
 <!DOCTYPE html>
 <html>
-    <body style="background-color:rgb(209, 235, 186);"></body>
+    
 <body>
-    <style type="text/css">
-        h3 {color:rgb(26, 174, 26);}
-        h2 {color:rgb(48, 255, 65);}
-        p {color:green;}
-        </style>
+   
 <p>
 <a href="#C4">See also Chapter 4.</a>
 </p>
