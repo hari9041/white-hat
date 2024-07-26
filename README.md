@@ -36,15 +36,6 @@
 <h3>Chapter 9</h3>
 <p>This chapter explains email bruteforcing with hydra</p>
 
-<form action="">
-    <select name="White HAT">
-    <option value="Black HAT">Black HAT</option>
-    <option value="Green HAT">Green HAT</option>
-    <option value="Red HAT" selected>Red HAT</option>
-    <option value="Grey HAT">Grey HAT</option>
-    </select>
-    </form>
-
 <h2>Chapter 10</h2>
 <p>This chapter explains iplogger </p>
 
